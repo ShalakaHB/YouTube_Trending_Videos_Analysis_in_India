@@ -1,6 +1,8 @@
 # YouTube_Trending_Videos_Analysis_in_India
 The YouTube Data Collection and Analysis project aims to gather data on YouTube videos using Google Cloud Console-generated YouTube APLs. 
 
+![1684203163558](https://github.com/user-attachments/assets/2b2c5fdf-6435-4454-83c6-2114111fff61)
+
 ## Project Overview :
 The YpuTube Data Collection and Analysis project aims to gather data on YouTube videos using Google Cloud Console-generated YouTube APLs. This project will focus on collecting data about trending videos in India and conducting an in-depth analysis to identify factors contributing to the popularity of these videos, such as video category, view count, like count, comment count, and video length. The analysis will provide valuable insights into user behaviour and content preferences, helping content creators and marketers make data-driven decisions. 
 
@@ -57,3 +59,8 @@ The project will involve the following steps:
 - Visualisation: Matplotlib, Seaborn, Plotly, Dash (for interactive dashboards)
 - Machine Learning: Scikit-learn
 
+##  Let’s have a look at the distribution of views, likes and comments of all the videos in the data:
+
+![views,like,counts](https://github.com/user-attachments/assets/6b0caf6e-c357-4132-a5ac-d33aac154009)
+
+The histograms show that the distributions of view counts, like counts, and comment counts are right-skewed, with most videos having lower counts and a few videos having very high counts.

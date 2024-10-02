@@ -64,3 +64,28 @@ The project will involve the following steps:
 ![views,like,counts](https://github.com/user-attachments/assets/6b0caf6e-c357-4132-a5ac-d33aac154009)
 
 The histograms show that the distributions of view counts, like counts, and comment counts are right-skewed, with most videos having lower counts and a few videos having very high counts.
+
+## Here’s how we can analyze the number of trending videos by category:
+
+![No of trending videos by catgory](https://github.com/user-attachments/assets/fd08c4d8-638e-4973-a1e8-04b60ed0614a)
+
+The bar chart shows that the Entertainment, People & Blogs, Gaming and Music categories have the highest number of trending videos.
+
+##  The content and the duration of videos:
+
+![CONTENET and DURATION](https://github.com/user-attachments/assets/ccd24745-6e53-482b-8f63-bdc5a5f0896a)
+
+The correlation between video length and view count, indicating longer videos tend to have higher view counts. Videos in the 60-120 minute range have the highest average view counts, likes, and comments. Engagement increases as video length increases.
+
+## Let’s see if there’s an impact of the time a video is posted on its views:
+
+![distribution of video by houre](https://github.com/user-attachments/assets/ecc69cec-28e4-4595-8aee-1b9d7247957f)
+
+The distribution shows that most videos are published between 05:00 (5 AM)and 11:00 and 14:00 hours (11 AM – 2 PM), indicating this may be an optimal time for uploading videos. There is a very weak negative relationship between publish hour and view count, suggesting that the hour of publication has minimal impact on engagement metrics.
+
+## Conclusion : 
+So, here’s my conclusion on what makes a video trend on YouTube:
+1. Encourage viewers to like and comment on videos to boost engagement metrics.
+2. Aim to create shorter videos (under 5 minutes) for shorter engagement, especially for categories like Education and News & Politics.
+3. Aim to create longer videos (60 to 120 minutes) for higher engagement, especially for categories like Science & Techonology and Entertainment.
+4. Schedule video uploads around peak times (11 AM – 3 PM) to maximise initial views and engagement.

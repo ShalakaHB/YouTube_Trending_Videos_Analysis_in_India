@@ -101,3 +101,5 @@ So, here’s my conclusion on what makes a video trend on YouTube:
 2. Aim to create shorter videos (under 5 minutes) for shorter engagement, especially for categories like Education and News & Politics.
 3. Aim to create longer videos (60 to 120 minutes) for higher engagement, especially for categories like Science & Techonology and Entertainment.
 4. Schedule video uploads around peak times (11 AM – 3 PM) to maximise initial views and engagement.
+
+Blog link: https://medium.com/@baradkarshalaka/youtube-trending-videos-analysis-in-india-a2e232133d9d
